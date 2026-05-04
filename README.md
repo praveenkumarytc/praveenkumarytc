@@ -79,4 +79,6 @@ I build scalable mobile and backend systems using Flutter, Node.js, and Firebase
 
 <br />
 
-> "Talk is cheap. Show me the code." — Linus Torvalds
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
